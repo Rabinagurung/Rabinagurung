@@ -6,6 +6,8 @@
 
 📱 **Mobile App Developer** skilled in Android, iOS, and React Native.
 
+🎓 **Bachelor's Degree** in Information Technology from London Metropolitan University.
+
 ---
 
 ### 🛠️ Technologies & Tools
