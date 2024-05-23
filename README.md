@@ -19,7 +19,7 @@
 
 ### 📚 Projects
 
-#### [Project 1: Ramro Jutta](https://github.com/Rabinagurung/Ramro-Jutta)
+#### [Ramro Jutta](https://github.com/Rabinagurung/Ramro-Jutta)
 **Ramro jutta** is a modern Android e-commerce application crafted for shoe enthusiasts across the globe. Built with Kotlin using the robust MVVM architecture and powered by Firebase Realtime Database.
 
 - **Features:**
