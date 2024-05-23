@@ -19,7 +19,7 @@
 
 ### 📚 Projects
 
-#### [Shoe Spot](https://github.com/Rabinagurung/Ramro-Jutta)
+#### [Shoe Spot](https://github.com/Rabinagurung/Shoe-Spot)
 **Shoe spot** is a modern Android e-commerce application crafted for shoe enthusiasts across the globe. Built with Kotlin using the robust MVVM architecture and powered by Firebase Realtime Database.
 
 - **Features:**
