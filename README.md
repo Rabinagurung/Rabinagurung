@@ -15,7 +15,7 @@
 - **Languages:** Java, Kotlin, Swift, JavaScript, TypeScript
 - **Frameworks:** React Native, Android SDK, SwiftUI
 - **Tools:** Xcode, Android Studio, Visual Studio Code, Git, GitHub
-- **Other Skills:** RESTful APIs, Firebase, Realm, Agile Methodologies, Expres, Nodejs
+- **Other Skills:** RESTful APIs, Firebase, Realm, Agile Methodologies, Express, Nodejs
 
 ---
 
