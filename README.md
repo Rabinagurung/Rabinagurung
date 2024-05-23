@@ -22,6 +22,21 @@
 #### [Project 1: Ramro Jutta](https://github.com/Rabinagurung/Ramro-Jutta)
 **Ramro jutta** is a modern Android e-commerce application crafted for shoe enthusiasts across the globe. Built with Kotlin using the robust MVVM architecture and powered by Firebase Realtime Database.
 
+- **Features:**
+  - **Product Browsing:** Users can browse a wide range of shoes with detailed descriptions and high-quality images.
+  - **Search Functionality:** Advanced search capabilities to quickly find the perfect pair of shoes.
+  - **User Authentication:** Secure login and registration using Firebase Authentication.
+  - **Shopping Cart:** Add items to the cart and manage them effortlessly before making a purchase.
+  - **Order Tracking:** Real-time order tracking to keep users updated on their purchase status.
+  - **Admin Panel:** Admins can manage inventory, update product details, and monitor sales.
+
+- **Technologies Used:**
+  - **Frontend:** Android SDK, Kotlin
+  - **Architecture:** MVVM (Model-View-ViewModel)
+  - **Database:** Firebase Realtime Database
+  - **Authentication:** Firebase Authentication
+
+
 #### [Med Life](https://github.com/Rabinagurung/medlife)
 **Med Life** is a full-stack mobile application that allows users to schedule doctor visits through their mobile devices. The app provides a user-friendly interface to book appointments, receive notifications, and manage their health records seamlessly. It is built with Android using Java, ensuring robust performance and reliability.
 
