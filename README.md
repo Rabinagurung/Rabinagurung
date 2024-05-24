@@ -12,7 +12,7 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Java, Kotlin, Swift, JavaScript, TypeScript
+- **Languages:** Java, Kotlin, Swift, JavaScript, TypeScript, Python
 - **Frameworks:** React Native, Android SDK, SwiftUI
 - **Tools:** Xcode, Android Studio, Visual Studio Code, Git, GitHub
 - **Other Skills:** RESTful APIs, Firebase, Realm, Agile Methodologies, Express, Nodejs
