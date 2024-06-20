@@ -25,32 +25,32 @@
 **NewsFeed** is a cutting-edge Android application developed to provide users with up-to-date news articles from various categories. Built with Kotlin, the app follows the Clean Architecture and MVVM patterns to ensure a robust and scalable codebase. It utilizes Retrofit for API calls, Hilt for Dependency Injection, and Room for local data storage.
 
 - **Features:**
-- **Real-time News Updates:** Fetches and displays the latest news articles from multiple categories such as Politics, Sports, and Technology.
-- **Category Filtering:** Users can easily filter news by categories to focus on their interests.
-- **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
-- **Offline Reading:** Save articles for offline access, allowing users to read them without an internet connection.
-- **User Favorites:** Bookmark favorite articles for quick access later.
-- **Dependency Injection:** Leveraging Hilt for managing dependencies efficiently.
-- **Local Storage:** Uses Room for storing and managing saved articles locally.
+  - **Real-time News Updates:** Fetches and displays the latest news articles from multiple categories such as Politics, Sports, and Technology.
+  - **Category Filtering:** Users can easily filter news by categories to focus on their interests.
+  - **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
+  - **Offline Reading:** Save articles for offline access, allowing users to read them without an internet connection.
+  - **User Favorites:** Bookmark favorite articles for quick access later.
+  - **Dependency Injection:** Leveraging Hilt for managing dependencies efficiently.
+  - **Local Storage:** Uses Room for storing and managing saved articles locally.
 
 **Technologies Used:**
 
-- **Kotlin:** For building the application's core functionalities.
-- **Android SDK:** To leverage Android's development tools and frameworks.
-- **Retrofit:** For making efficient and structured API calls.
-- **Hilt:** For Dependency Injection to simplify code and improve modularity.
-- **Room:** For robust local data storage and management.
-- **Clean:** Architecture & MVVM: Ensures a clear separation of concerns and maintainability.
+  - **Kotlin:** For building the application's core functionalities.
+  - **Android SDK:** To leverage Android's development tools and frameworks.
+  - **Retrofit:** For making efficient and structured API calls.
+  - **Hilt:** For Dependency Injection to simplify code and improve modularity.
+  - **Room:** For robust local data storage and management.
+  - **Clean:** Architecture & MVVM: Ensures a clear separation of concerns and maintainability.
 
 #### [ChatGPT Clone](https://github.com/Rabinagurung/Chatgpt)
 **ChatGPT clone** is an advanced Android application designed to replicate the interactive conversational capabilities of OpenAI's ChatGPT. This app is built using Kotlin and follows MVVM (Model-View-ViewModel) pattern to ensure a robust, scalable, and maintainable codebase. It leverages the Hugging Face API for natural language processing and Retrofit for API communication
 
 - **Features:**
-- **Natural Language Processing: ** integrates with the Hugging Face API to understand and generate responses based on user input, simulating natural conversations.
-- **Persistent Conversations:** Stores and retrieves past conversations, allowing users to continue their chats seamlessly.
-- **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
-- **Offline Access:** Enables users to view saved conversations without needing an internet connection.
-- **Local Storage:** Utilizes Room to securely and efficiently store conversation data and user settings locally.
+  - **Natural Language Processing: ** integrates with the Hugging Face API to understand and generate responses based on user input, simulating natural conversations.
+  - **Persistent Conversations:** Stores and retrieves past conversations, allowing users to continue their chats seamlessly.
+  - **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
+  - **Offline Access:** Enables users to view saved conversations without needing an internet connection.
+  - **Local Storage:** Utilizes Room to securely and efficiently store conversation data and user settings locally.
 
 **Technologies Used:**
 
