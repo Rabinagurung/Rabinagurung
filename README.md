@@ -21,6 +21,45 @@
 
 ### 📚 Projects
 
+#### [News Feed ](https://github.com/Rabinagurung/NewsFeed)
+**NewsFeed** is a cutting-edge Android application developed to provide users with up-to-date news articles from various categories. Built with Kotlin, the app follows the Clean Architecture and MVVM patterns to ensure a robust and scalable codebase. It utilizes Retrofit for API calls, Hilt for Dependency Injection, and Room for local data storage.
+
+- **Features:**
+- **Real-time News Updates:** Fetches and displays the latest news articles from multiple categories such as Politics, Sports, and Technology.
+- **Category Filtering:** Users can easily filter news by categories to focus on their interests.
+- **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
+- **Offline Reading:** Save articles for offline access, allowing users to read them without an internet connection.
+- **User Favorites:** Bookmark favorite articles for quick access later.
+- **Dependency Injection:** Leveraging Hilt for managing dependencies efficiently.
+- **Local Storage:** Uses Room for storing and managing saved articles locally.
+
+**Technologies Used:**
+
+- **Kotlin:** For building the application's core functionalities.
+- **Android SDK:** To leverage Android's development tools and frameworks.
+- **Retrofit:** For making efficient and structured API calls.
+- **Hilt:** For Dependency Injection to simplify code and improve modularity.
+- **Room:** For robust local data storage and management.
+- **Clean:** Architecture & MVVM: Ensures a clear separation of concerns and maintainability.
+
+#### [ChatGPT Clone](https://github.com/Rabinagurung/Chatgpt)
+**ChatGPT clone** is an advanced Android application designed to replicate the interactive conversational capabilities of OpenAI's ChatGPT. This app is built using Kotlin and follows MVVM (Model-View-ViewModel) pattern to ensure a robust, scalable, and maintainable codebase. It leverages the Hugging Face API for natural language processing and Retrofit for API communication
+
+- **Features:**
+- **Natural Language Processing: ** integrates with the Hugging Face API to understand and generate responses based on user input, simulating natural conversations.
+- **Persistent Conversations:** Stores and retrieves past conversations, allowing users to continue their chats seamlessly.
+- **Detailed Article View:** Provides a comprehensive view of each news article, including full content and high-quality images.
+- **Offline Access:** Enables users to view saved conversations without needing an internet connection.
+- **Local Storage:** Utilizes Room to securely and efficiently store conversation data and user settings locally.
+
+**Technologies Used:**
+
+- **Kotlin:** The core language for developing and maintaining the application, offering concise and expressive syntax.
+- **Android SDK:** Utilizes the Android Software Development Kit to fully leverage Android's native capabilities.
+- **Retrofit:** API calls to the Hugging Face API efficiently, ensuring seamless communication and data handling..
+- **Room:** For robust local data storage and management.
+- **MVVM:** Implements a clear separation of concerns, enhancing maintainability and scalability
+
 #### [Shoe Spot](https://github.com/Rabinagurung/ShoeSpot)
 **Shoe spot** is a modern Android e-commerce application crafted for shoe enthusiasts across the globe. Built with Kotlin using the robust MVVM architecture and powered by Firebase Realtime Database.
 
@@ -38,20 +77,6 @@
   - **Database:** Firebase Realtime Database
   - **Authentication:** Firebase Authentication
 
-
-#### [Med Life](https://github.com/Rabinagurung/medlife)
-**Med Life** is a full-stack mobile application that allows users to schedule doctor visits through their mobile devices. The app provides a user-friendly interface to book appointments, receive notifications, and manage their health records seamlessly. It is built with Android using Java, ensuring robust performance and reliability.
-
-- **Features:**
-  - Schedule doctor appointments
-  - View and manage health records
-  - Receive appointment notifications and reminders
-  - Search for doctors by specialty and location
-
-- **Technologies Used:**
-  - **Frontend:** Android SDK, Java
-  - **Backend:** Django, python
-  - **Database:** PostgresSQL
 
 #### [RadiantTune](https://github.com/Rabinagurung/radianttune)
 **RadiantTune** is a standout project developed as part of the group capstone project for the Mobile App Development curriculum at Fanshawe College. This innovative app allows users to listen to radio stations from around the world, bringing global music and news to their fingertips. The project showcases our ability to work collaboratively and integrate complex features.
