@@ -42,7 +42,7 @@
   - **Room:** For robust local data storage and management.
   - **Clean:** Architecture & MVVM: Ensures a clear separation of concerns and maintainability.
 
-#### [ChatGPT Clone](https://github.com/Rabinagurung/Chatgpt)
+#### [ChatGPT Clone](https://github.com/Rabinagurung/ChatGPT-Clone)
 **ChatGPT clone** is an advanced Android application designed to replicate the interactive conversational capabilities of OpenAI's ChatGPT. This app is built using Kotlin and follows MVVM (Model-View-ViewModel) pattern to ensure a robust, scalable, and maintainable codebase. It leverages the Hugging Face API for natural language processing and Retrofit for API communication
 
 - **Features:**
