@@ -95,7 +95,7 @@
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Rabina Gurung](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [Rabina Gurung](https://www.linkedin.com/in/rabina-gurung/)
 
 ---
 
